@@ -1,103 +1,31 @@
 {
   "devActivity": [
     {
-      "time": "2024-05-27T09:00:00Z",
-      "commits": 5,
+      "time": "2024-06-01T09:00:00Z",
+      "commits": 6,
       "pullRequests": 2,
       "merges": 1,
-      "meetings": 3,
+      "meetings": 1,
       "documentation": 4
     },
     {
-      "time": "2024-05-27T12:00:00Z",
+      "time": "2024-06-01T12:00:00Z",
       "commits": 7,
       "pullRequests": 3,
       "merges": 2,
-      "meetings": 1,
+      "meetings": 2,
       "documentation": 5
     },
     {
-      "time": "2024-05-27T15:00:00Z",
-      "commits": 3,
+      "time": "2024-06-01T15:00:00Z",
+      "commits": 4,
       "pullRequests": 1,
       "merges": 1,
-      "meetings": 2,
-      "documentation": 6
-    },
-    {
-      "time": "2024-05-28T09:00:00Z",
-      "commits": 6,
-      "pullRequests": 4,
-      "merges": 3,
-      "meetings": 2,
-      "documentation": 7
-    },
-    {
-      "time": "2024-05-28T12:00:00Z",
-      "commits": 8,
-      "pullRequests": 3,
-      "merges": 2,
-      "meetings": 1,
-      "documentation": 4
-    },
-    {
-      "time": "2024-05-28T15:00:00Z",
-      "commits": 4,
-      "pullRequests": 2,
-      "merges": 1,
       "meetings": 3,
-      "documentation": 5
-    },
-    {
-      "time": "2024-05-29T09:00:00Z",
-      "commits": 7,
-      "pullRequests": 3,
-      "merges": 2,
-      "meetings": 2,
       "documentation": 6
     },
     {
-      "time": "2024-05-29T12:00:00Z",
-      "commits": 9,
-      "pullRequests": 4,
-      "merges": 3,
-      "meetings": 1,
-      "documentation": 7
-    },
-    {
-      "time": "2024-05-29T15:00:00Z",
-      "commits": 5,
-      "pullRequests": 2,
-      "merges": 2,
-      "meetings": 2,
-      "documentation": 4
-    },
-    {
-      "time": "2024-05-30T09:00:00Z",
-      "commits": 6,
-      "pullRequests": 3,
-      "merges": 1,
-      "meetings": 3,
-      "documentation": 5
-    },
-    {
-      "time": "2024-05-30T12:00:00Z",
-      "commits": 8,
-      "pullRequests": 4,
-      "merges": 2,
-      "meetings": 2,
-      "documentation": 6
-    },
-    {
-      "time": "2024-05-30T15:00:00Z",
-      "commits": 4,
-      "pullRequests": 2,
-      "merges": 1,
-      "meetings": 1,
-      "documentation": 7
-    },
-    {
-      "time": "2024-05-31T09:00:00Z",
+      "time": "2024-06-02T09:00:00Z",
       "commits": 5,
       "pullRequests": 3,
       "merges": 2,
@@ -105,15 +33,159 @@
       "documentation": 4
     },
     {
-      "time": "2024-05-31T12:00:00Z",
-      "commits": 7,
+      "time": "2024-06-02T12:00:00Z",
+      "commits": 8,
       "pullRequests": 2,
       "merges": 1,
       "meetings": 1,
       "documentation": 5
     },
     {
-      "time": "2024-05-31T15:00:00Z",
+      "time": "2024-06-02T15:00:00Z",
+      "commits": 3,
+      "pullRequests": 1,
+      "merges": 2,
+      "meetings": 3,
+      "documentation": 6
+    },
+    {
+      "time": "2024-06-03T09:00:00Z",
+      "commits": 7,
+      "pullRequests": 3,
+      "merges": 1,
+      "meetings": 2,
+      "documentation": 5
+    },
+    {
+      "time": "2024-06-03T12:00:00Z",
+      "commits": 6,
+      "pullRequests": 2,
+      "merges": 2,
+      "meetings": 1,
+      "documentation": 4
+    },
+    {
+      "time": "2024-06-03T15:00:00Z",
+      "commits": 5,
+      "pullRequests": 1,
+      "merges": 1,
+      "meetings": 3,
+      "documentation": 6
+    },
+    {
+      "time": "2024-06-04T09:00:00Z",
+      "commits": 6,
+      "pullRequests": 2,
+      "merges": 1,
+      "meetings": 1,
+      "documentation": 4
+    },
+    {
+      "time": "2024-06-04T12:00:00Z",
+      "commits": 7,
+      "pullRequests": 3,
+      "merges": 2,
+      "meetings": 2,
+      "documentation": 5
+    },
+    {
+      "time": "2024-06-04T15:00:00Z",
+      "commits": 4,
+      "pullRequests": 1,
+      "merges": 1,
+      "meetings": 3,
+      "documentation": 6
+    },
+    {
+      "time": "2024-06-05T09:00:00Z",
+      "commits": 5,
+      "pullRequests": 3,
+      "merges": 2,
+      "meetings": 2,
+      "documentation": 4
+    },
+    {
+      "time": "2024-06-05T12:00:00Z",
+      "commits": 8,
+      "pullRequests": 2,
+      "merges": 1,
+      "meetings": 1,
+      "documentation": 5
+    },
+    {
+      "time": "2024-06-05T15:00:00Z",
+      "commits": 3,
+      "pullRequests": 1,
+      "merges": 2,
+      "meetings": 3,
+      "documentation": 6
+    },
+    {
+      "time": "2024-06-06T09:00:00Z",
+      "commits": 7,
+      "pullRequests": 3,
+      "merges": 1,
+      "meetings": 2,
+      "documentation": 5
+    },
+    {
+      "time": "2024-06-06T12:00:00Z",
+      "commits": 6,
+      "pullRequests": 2,
+      "merges": 2,
+      "meetings": 1,
+      "documentation": 4
+    },
+    {
+      "time": "2024-06-06T15:00:00Z",
+      "commits": 5,
+      "pullRequests": 1,
+      "merges": 1,
+      "meetings": 3,
+      "documentation": 6
+    },
+    {
+      "time": "2024-06-07T09:00:00Z",
+      "commits": 6,
+      "pullRequests": 2,
+      "merges": 1,
+      "meetings": 1,
+      "documentation": 4
+    },
+    {
+      "time": "2024-06-07T12:00:00Z",
+      "commits": 7,
+      "pullRequests": 3,
+      "merges": 2,
+      "meetings": 2,
+      "documentation": 5
+    },
+    {
+      "time": "2024-06-07T15:00:00Z",
+      "commits": 4,
+      "pullRequests": 1,
+      "merges": 1,
+      "meetings": 3,
+      "documentation": 6
+    },
+    {
+      "time": "2024-06-08T09:00:00Z",
+      "commits": 5,
+      "pullRequests": 3,
+      "merges": 2,
+      "meetings": 2,
+      "documentation": 4
+    },
+    {
+      "time": "2024-06-08T12:00:00Z",
+      "commits": 8,
+      "pullRequests": 2,
+      "merges": 1,
+      "meetings": 1,
+      "documentation": 5
+    },
+    {
+      "time": "2024-06-08T15:00:00Z",
       "commits": 3,
       "pullRequests": 1,
       "merges": 2,
