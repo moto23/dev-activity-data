@@ -119,6 +119,22 @@
       "merges": 2,
       "meetings": 3,
       "documentation": 6
+    },
+      {
+      "time": "2024-06-01T12:00:00Z",
+      "commits": 3,
+      "pullRequests": 1,
+      "merges": 6,
+      "meetings": 3,
+      "documentation": 6
+    },
+      {
+      "time": "2024-06-02T12:00:00Z",
+      "commits": 2,
+      "pullRequests": 5,
+      "merges": 2,
+      "meetings": 3,
+      "documentation": 4
     }
   ]
 }
