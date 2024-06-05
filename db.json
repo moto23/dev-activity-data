@@ -136,14 +136,7 @@
       "meetings": 7,
       "documentation": 6
     },
-      {
-      "time": "2024-06-01T15:00:00Z",
-      "commits": 2,
-      "pullRequests": 3,
-      "merges": 5,
-      "meetings": 3,
-      "documentation": 1
-    },
+      
       {
       "time": "2024-06-02T09:00:00Z",
       "commits": 2,
@@ -159,14 +152,7 @@
       "merges": 4,
       "meetings": 3,
       "documentation": 4
-    },
-    {
-      "time": "2024-06-02T15:00:00Z",
-      "commits": 2,
-      "pullRequests": 7,
-      "merges": 2,
-      "meetings": 5,
-      "documentation": 4
-    },
+    }
+   
   ]
 }
